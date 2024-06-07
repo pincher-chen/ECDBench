@@ -14,3 +14,5 @@ In this repo, we provide both the ECD dataset and the benchmark code, which can 
 |ECD-MP-id | 2000 | -/-/2000 |
 |ECD-PBE_HSE-id | 1000 |-/-/1000 |
 |ECD-PBE_HSE_tuning-id | 7147| 5647/500/1000 |
+
+To thoroughly evaluate the performance of charge density predictions, we define the following tasks utilizing PBE functional and HSE functional precision from the ECD dataset, and the MP PBE precision pretrained model.
