@@ -27,7 +27,7 @@ $ cd data/hse;bash ../../script/download_hse_charge.sh
 To thoroughly evaluate the performance of charge density predictions, we define the following tasks utilizing PBE functional and HSE functional precision from the ECD dataset, and the MP PBE precision pretrained model.
 
 ## Requirements
-[ChargE3Net](https://github.com/AIforGreatGood/charge3net) constructs rotationally equivariant networks using vector representations and improves model accuracy by incorporating higher-order equivariant features, showing diverse performance on the MP dataset. Therefore, the equivariant quantum tensor network ChargE3Net is selected as the primary benchmark for the ECD dataset. When the [Charge3Net code](https://github.com/AIforGreatGood/charge3net) is downloaded to the local path, you can execute the following commands to train and tune the model.
+[ChargE3Net](https://github.com/AIforGreatGood/charge3net) constructs rotationally equivariant networks using vector representations and improves model accuracy by incorporating higher-order equivariant features, showing diverse performance on the MP dataset. Therefore, the equivariant quantum tensor network ChargE3Net is selected as the primary benchmark for the ECD dataset. When the [Charge3Net code](https://github.com/AIforGreatGood/charge3net) is downloaded to the this local path, you can execute the following commands to train and tune the model.
 
 Training PBE data:
 ```
