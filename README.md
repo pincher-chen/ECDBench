@@ -27,7 +27,7 @@ $ cd data/hse;bash ../../script/download_hse_charge.sh
 To thoroughly evaluate the performance of charge density predictions, we define the following tasks utilizing PBE functional and HSE functional precision from the ECD dataset, and the MP PBE precision pretrained model.
 
 ## Requirements
-We include key dependencies below. The versions we used are in parentheses.
+We include key dependencies below.
 ```
 ase                     3.22.1
 e3nn                    0.5.1
