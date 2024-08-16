@@ -13,7 +13,8 @@ We provide a script to download charge density files from Matgen website.
 
 ```
 $ cd data/pbe;bash ../../script/download_pbe_charge.sh
-$ cd data/hse;bash ../../script/download_hse_charge.sh 
+$ cd data/hse;bash ../../script/download_hse_charge.sh
+$ cd data/gnome;bash ../../script/download_gnome_charge.sh 
 ```
 
 ## Tasks
