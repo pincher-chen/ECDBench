@@ -8,7 +8,7 @@ ECD provides precise DFT-calculated charge density for 140,646 PBE data and a su
 In this repo, we provide both the ECD dataset and the benchmark code, which can be highly valuable for developing machine learning methods and accelerating materials design for scientific and technological applications.
 
 ## Dataset Usage
-We provide a script to download charge density files from Matgen website.
+We provide a script to download charge density files from Matgen website. The electronic charge data is approximately 10TB, making it difficult to release on third-party platforms. Therefore, we have published the data through a self-built platform. To maintain anonymity, we have hidden the download link. We will make all the data publicly available once the paper is accepted.
 
 
 ```
