@@ -1,4 +1,4 @@
 #!/bin/sh
 for i in `cat ./filelist.txt`;do 
-    wget https://matgen.nscc-gz.cn/chgcar/download/hse/${i}.tar.gz
+    wget https://xx/chgcar/download/hse/${i}.tar.gz # To maintain anonymity, we have hidden the download link.
 done
