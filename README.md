@@ -24,6 +24,8 @@ $ cd data/gnome;bash ../../script/download_gnome_charge.sh
 |ECD-MP-id | 2000 | -/-/2000 |
 |ECD-PBE_HSE-id | 1000 |-/-/1000 |
 |ECD-PBE_HSE_tuning-id | 7147| 5647/500/1000 |
+|EXP-id | 41 | -/-/41 |
+|OOD-id | 2000 | -/-/2000 |
 
 To thoroughly evaluate the performance of charge density predictions, we define the following tasks utilizing PBE functional and HSE functional precision from the ECD dataset, and the MP PBE precision pretrained model.
 
