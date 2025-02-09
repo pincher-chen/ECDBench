@@ -1,5 +1,6 @@
-# ECDBench
-A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials
+# ECDBench (ICLR 2025)
+A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials.
+[**[Paper]**](https://openreview.net/forum?id=SBCMNc3Mq3)
 
 ## Introduction
 
